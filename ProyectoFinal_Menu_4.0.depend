@@ -1,0 +1,143 @@
+# depslib dependency file v1.0
+1544376082 source:c:\users\renchi\documents\uca\cav\programación i\proyecto final\proyectofinal_menu_4.0\main.cpp
+	<iostream>
+
+1543700282 source:c:\users\renchi\documents\uca\cav\programación i\proyecto final\proyectofinal_menu_4.0\menu_principal.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"Funciones_2.0.cpp"
+
+1543700978 source:c:\users\renchi\documents\uca\cav\programación i\proyecto final\proyectofinal_menu_4.0\funciones_2.0.cpp
+
+1543700978 c:\users\renchi\documents\uca\cav\programación i\proyecto final\proyectofinal_menu_4.0\funciones_2.0.cpp
+
+1543510204 c:\users\renchi\documents\uca\cav\programación i\proyecto final\proyectofinal_menu_4.0\interfaz_2.0.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+
+1543509709 c:\users\renchi\documents\uca\cav\programación i\proyecto final\proyectofinal_menu_4.0\funciones_convalor.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+
+1544381561 source:c:\users\renchi\documents\uca\cav\programación i\proyecto final\proyectofinal_menu_4.0\interfaz_2.0.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"Declaraciones_2.0.cpp"
+
+1543509709 source:c:\users\renchi\documents\uca\cav\programación i\proyecto final\proyectofinal_menu_4.0\funciones_convalor.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+
+1544381809 source:c:\users\renchi\documents\uca\cav\programación i\proyecto final\proyectofinal_menu_4.0\funciones_file.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<windows.h>
+	<time.h>
+	"Declaraciones_2.0.cpp"
+	"Struct_FinalProyecto.h"
+
+1544216353 c:\users\renchi\documents\uca\cav\programación i\proyecto final\proyectofinal_menu_4.0\struct_finalproyecto.h
+
+1543943459 source:c:\users\renchi\documents\uca\cav\programación i\proyecto final\proyectofinal_menu_4.0\void_2.0.cpp
+
+1543943459 c:\users\renchi\documents\uca\cav\programación i\proyecto final\proyectofinal_menu_4.0\void_2.0.cpp
+
+1544381356 source:c:\users\renchi\documents\uca\cav\programación i\proyecto final\proyectofinal_menu_4.0\menus_principales.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"Declaraciones_2.0.cpp"
+
+1544370215 source:c:\users\renchi\documents\uca\cav\programación i\proyecto final\proyectofinal_menu_4.0\declaraciones_2.0.cpp
+
+1544370215 c:\users\renchi\documents\uca\cav\programación i\proyecto final\proyectofinal_menu_4.0\declaraciones_2.0.cpp
+
+1544370215 source:c:\users\renchi\desktop\proyecto final\proyectofinal_menu_4.0\declaraciones_2.0.cpp
+
+1544454411 source:c:\users\renchi\desktop\proyecto final\proyectofinal_menu_4.0\funciones_file.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<windows.h>
+	<time.h>
+	"Declaraciones_2.0.cpp"
+	"Struct_FinalProyecto.h"
+
+1544370215 c:\users\renchi\desktop\proyecto final\proyectofinal_menu_4.0\declaraciones_2.0.cpp
+
+1544216353 c:\users\renchi\desktop\proyecto final\proyectofinal_menu_4.0\struct_finalproyecto.h
+
+1544456087 source:c:\users\renchi\desktop\proyecto final\proyectofinal_menu_4.0\interfaz_2.0.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"Declaraciones_2.0.cpp"
+
+1544376082 source:c:\users\renchi\desktop\proyecto final\proyectofinal_menu_4.0\main.cpp
+	<iostream>
+
+1544381356 source:c:\users\renchi\desktop\proyecto final\proyectofinal_menu_4.0\menus_principales.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"Declaraciones_2.0.cpp"
+
+1544455492 source:c:\users\renchi\downloads\proyecto final\proyectofinal_menu_4.0\declaraciones_2.0.cpp
+
+1544455492 source:c:\users\renchi\downloads\proyecto final\proyectofinal_menu_4.0\funciones_file.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<windows.h>
+	<time.h>
+	"Declaraciones_2.0.cpp"
+	"Struct_FinalProyecto.h"
+
+1544455492 c:\users\renchi\downloads\proyecto final\proyectofinal_menu_4.0\declaraciones_2.0.cpp
+
+1544455490 c:\users\renchi\downloads\proyecto final\proyectofinal_menu_4.0\struct_finalproyecto.h
+
+1544455498 source:c:\users\renchi\downloads\proyecto final\proyectofinal_menu_4.0\interfaz_2.0.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"Declaraciones_2.0.cpp"
+
+1544455508 source:c:\users\renchi\downloads\proyecto final\proyectofinal_menu_4.0\main.cpp
+	<iostream>
+
+1544455508 source:c:\users\renchi\downloads\proyecto final\proyectofinal_menu_4.0\menus_principales.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"Declaraciones_2.0.cpp"
+
